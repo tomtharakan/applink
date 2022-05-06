@@ -1,0 +1,14 @@
+[
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.innovatise.myfitappbilling",
+"sha256_cert_fingerprints": [
+"5F:C6:A2:34:9C:B4:B7:44:44:7C:8B:42:7A:A9:52:6A:96:B0:1D:03:BB:FF:3F:2C:69:B6:CA:AA:0A:52:95:85"
+]
+}
+}
+]
