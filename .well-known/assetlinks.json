@@ -4,9 +4,9 @@
 	],
 	"target": {
 		"namespace": "android_app",
-		"package_name": "com.innovatise.myfitappbillingg",
+		"package_name": "com.innovatise.myfitappbilling",
 		"sha256_cert_fingerprints": [
-			"08:B5:3D:14:E2:B1:98:3F:1D:47:5D:D8:CC:56:41:CA:C3:F4:C0:DF:E5:1E:18:0D:B1:A7:6F:42:61:98:F2:D0:TX"
+			"08:B5:3D:14:E2:B1:98:3F:1D:47:5D:D8:CC:56:41:CA:C3:F4:C0:DF:E5:1E:18:0D:B1:A7:6F:42:61:98:F2:D0"
 		]
 	}
 }]
