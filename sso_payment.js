@@ -1,10 +1,9 @@
 if(window.location.href.includes("Home")) {
-  window.location.assign("https://testarea.pfpleisure.org/LhWebTest/en/Members/MyPayments")
+  window.location.assign("https://testarea.pfpleisure.org/LhWebTest/en/Members/Home/MyMemberships")
    
 }
-if(window.location.href.includes("MyPayments")) {
+if(window.location.href.includes("MyMemberships")) {
   setTimeout(function() {
   window.webkit.messageHandlers.handleNativeAction.postMessage({"type":"stopLoading", "key":"val"});
   }, 150);
 }
-
