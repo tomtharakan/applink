@@ -5,6 +5,6 @@ if(window.location.href.includes("Home")) {
 if(window.location.href.includes("MyPayments")) {
   setTimeout(function() {
   window.webkit.messageHandlers.handleNativeAction.postMessage({"type":"stopLoading", "key":"val"});
-  }, 50);
+  }, 100);
 }
 
